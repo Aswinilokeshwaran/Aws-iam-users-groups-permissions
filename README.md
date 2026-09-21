@@ -19,13 +19,13 @@ Created an IAM group and user with read-only EC2 access, then tested that the pe
 ## Screenshots
 
 ### User group with read-only policy
-![IAM group](screenshots/1-iam-group.jpeg)
+![IAM group](https://github.com/Aswinilokeshwaran/Aws-iam-users-groups-permissions/blob/de76f8b71642c603f7c502ede13bc1f8868c2f08/1-iam-group.jpeg)
 
 ### Test user created
-![IAM user](screenshots/2-iam-user.jpeg)
+![IAM user](https://github.com/Aswinilokeshwaran/Aws-iam-users-groups-permissions/blob/de76f8b71642c603f7c502ede13bc1f8868c2f08/2-iam-user.jpeg)
 
 ### Launch blocked (not authorized)
-![Access denied](screenshots/3-access-denied.jpeg)
+![Access denied](https://github.com/Aswinilokeshwaran/Aws-iam-users-groups-permissions/blob/de76f8b71642c603f7c502ede13bc1f8868c2f08/3-access-denied.jpeg)
 
 ## What I learned
 - Permissions are best given to groups, not directly to users
